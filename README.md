@@ -2,6 +2,8 @@
   
 ### 안녕하세요 👋
 
+### 저의 깃허브에 오신것을 환영합니다.
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jsc0)](https://solved.ac/jsc0)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jsc0)](https://solved.ac/jsc0)

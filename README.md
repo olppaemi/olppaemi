@@ -1,4 +1,8 @@
+<div align=center>
 ### Hi there 👋
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jsc0)](https://solved.ac/jsc0) 
+</div>
 
 <!--
 **olppaemi/olppaemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

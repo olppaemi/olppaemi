@@ -1,5 +1,7 @@
 ### 안녕하세요 👋
 
+### 매일 열심히 잔디밭을 가꾸겠습니다. since 21.1.8
+
 ### Gold 🏅
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jsc0)](https://solved.ac/jsc0)
 
